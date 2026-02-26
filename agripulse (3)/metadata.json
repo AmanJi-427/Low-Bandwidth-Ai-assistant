@@ -1,0 +1,5 @@
+{
+  "name": "AgriPulse",
+  "description": "Bridging fields to future. A specialized AI assistant for agriculture, government schemes, and rural development.",
+  "requestFramePermissions": ["microphone"]
+}
